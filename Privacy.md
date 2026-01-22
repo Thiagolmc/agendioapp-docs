@@ -30,12 +30,12 @@ Nós **não vendemos** seus dados a terceiros. Compartilhamos informações apen
 
 ## 5. Seus Direitos e Exclusão de Dados
 Você tem o direito de acessar e corrigir seus dados a qualquer momento dentro do app.
-- **Exclusão de Conta:** Você pode solicitar a exclusão de sua conta e todos os dados associados diretamente nas configurações do app ou enviando um e-mail para agendio@agendioapp.com.
+- **Exclusão de Conta:** Você pode solicitar a exclusão de sua conta e todos os dados associados diretamente nas configurações do app ou enviando um e-mail para contato@agendioapp.com.
 
 ## 6. Alterações nesta Política
 Podemos atualizar nossa Política de Privacidade ocasionalmente. Notificaremos você sobre quaisquer mudanças postando a nova política nesta página.
 
 ## 7. Contato
 Se tiver dúvidas sobre esta política, entre em contato:
-- E-mail: agendio@agendioapp.com
+- E-mail: contato@agendioapp.com
 - Site: https://agendioapp.com
